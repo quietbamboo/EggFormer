@@ -1,4 +1,4 @@
-Nondestructive in ovo sexing identification of Hy-Line Sonia eggs by eggformer using hyperspectral imaging
+Nondestructive in ovo sexing of Hy-Line Sonia eggs by EggFormer using hyperspectral imaging
 ===
 
 The code implements the "Nondestructive in ovo sexing identification of Hy-Line Sonia eggs by eggformer using hyperspectral imaging".
