@@ -78,5 +78,4 @@ python ./eggformer/show_GradCam.py  ----eggFormer-weights the path of weights of
 
 Contact Information:
 ---
-Junxian Huang: [jim@njau.edu.cn](jim@njau.edu.cn)<br/>
 Chengming Ji: [jicm@njau.edu.cn](jicm@njau.edu.cn)
